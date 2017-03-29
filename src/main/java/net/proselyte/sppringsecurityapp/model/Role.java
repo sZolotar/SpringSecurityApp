@@ -7,6 +7,8 @@ import java.util.Set;
 
 /**
  * Simple JavaBean object that represents role of {@link User}.
+ *
+ * @author Zolotar Sergii
  * @version 1.0
  */
 
