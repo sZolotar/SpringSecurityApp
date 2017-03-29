@@ -1,9 +1,9 @@
-package net.proselyte.sppringsecurityapp.service;
+package net.proselyte.springsecurityapp.service;
 
-import net.proselyte.sppringsecurityapp.dao.RoleDao;
-import net.proselyte.sppringsecurityapp.dao.UserDao;
-import net.proselyte.sppringsecurityapp.model.Role;
-import net.proselyte.sppringsecurityapp.model.User;
+import net.proselyte.springsecurityapp.dao.RoleDao;
+import net.proselyte.springsecurityapp.dao.UserDao;
+import net.proselyte.springsecurityapp.model.Role;
+import net.proselyte.springsecurityapp.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

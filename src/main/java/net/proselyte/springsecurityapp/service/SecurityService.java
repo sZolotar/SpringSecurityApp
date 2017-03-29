@@ -1,4 +1,4 @@
-package net.proselyte.sppringsecurityapp.service;
+package net.proselyte.springsecurityapp.service;
 
 /**
  * Service for Security

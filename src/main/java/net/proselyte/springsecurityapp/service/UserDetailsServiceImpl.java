@@ -1,8 +1,8 @@
-package net.proselyte.sppringsecurityapp.service;
+package net.proselyte.springsecurityapp.service;
 
-import net.proselyte.sppringsecurityapp.dao.UserDao;
-import net.proselyte.sppringsecurityapp.model.Role;
-import net.proselyte.sppringsecurityapp.model.User;
+import net.proselyte.springsecurityapp.dao.UserDao;
+import net.proselyte.springsecurityapp.model.Role;
+import net.proselyte.springsecurityapp.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
